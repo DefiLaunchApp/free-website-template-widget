@@ -1,6 +1,13 @@
 Free website design template by defilaunch.app
 
-The launchpad on Base, BNB Chain, Solana & Linea
+Simply download a code editor like 'VS Code' and drop the folder into a new window to edit the HTML file and images (https://code.visualstudio.com/download).
+
+Use the plugin GO LIVE to view live changes of your website on VS code.
+
+Old Tutorial Video: https://www.youtube.com/watch?v=x-tA7zqgzec&t=163s
+(New Tutorial coming soon..)
+
+Please join our socials below:
 
 Official links for defilaunch.app
 
