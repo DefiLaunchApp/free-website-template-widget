@@ -2,13 +2,6 @@ Free website design template by defilaunch.app
 
 The launchpad on Base, BNB Chain, Solana & Linea
 
-Create a token for only $5 on defilaunch.app
-Create a fair launch for only $7 on defilaunch.app
-Create a airdrop to unlimited wallets for only $7 on defilaunch.app
-+ Lock tokens and LP, Use our defiswap.app or defibridge.app.
-
-Get the latest Defi news on definews.app
-
 Official links for defilaunch.app
 
 Website: https://defilaunch.app/
